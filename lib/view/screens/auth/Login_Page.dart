@@ -56,7 +56,7 @@ class LoginPage extends StatelessWidget {
               iconData: Icons.lock,
             ),
             SizedBox(
-              height: 20,
+              height: 30,
             ),
             Image.asset(Imageassets.imagShop),
             CustomButtomAuth(
